@@ -5,7 +5,7 @@ axios.defaults.withCredentials = true
 var http = {
     // 登录
     login(params) {
-        let url = 'http://120.79.254.245/shopping/public/index.php/index/index/login'
+        let url = 'localurl'
         let opts = {
             headers: {
                 'X-Requested-With': 'XMLHttpRequest',
