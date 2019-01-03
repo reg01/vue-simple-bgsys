@@ -1,4 +1,4 @@
-# simple-bgsys
+# simple-erpBase
 
 > vue + element-ui + axios + vue-router,simple background system.
 
